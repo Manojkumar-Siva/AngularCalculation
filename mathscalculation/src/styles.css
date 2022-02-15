@@ -23,7 +23,7 @@
         width: 100%;
         margin-left: auto;
         margin-right: auto;
-        background-color: #e6c5ca;
+        background-color: #74c69d;
         height: 400px;
         width: 800px;
         text-align: center;
@@ -49,6 +49,9 @@
         color: #081c15;
         text-align: center;
         padding-top: 20px;
+        font-display: inherit;
+        font-style:initial;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
     h2{
